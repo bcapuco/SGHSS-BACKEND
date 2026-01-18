@@ -25,3 +25,6 @@ endpoints da API, sem a implementação completa do sistema.
 ## Observação
 Este projeto possui caráter acadêmico e teórico, não contemplando a implementação
 funcional completa do sistema.
+
+## Diagramas
+Os diagramas UML e o DER estão disponíveis na pasta `docs/`.
