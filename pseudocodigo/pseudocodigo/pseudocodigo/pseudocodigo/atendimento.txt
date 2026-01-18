@@ -1,7 +1,0 @@
-INICIO
-  Localizar agendamento
-  Registrar atendimento
-  Criar prontuário
-  Salvar observações clínicas
-  Finalizar atendimento
-FIM
