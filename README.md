@@ -9,7 +9,7 @@ Multidisciplinar da disciplina de back-end faculdade UNINTER.
 Apresentar a modelagem, arquitetura, pseudocódigo e definição dos principais
 endpoints da API, sem a implementação completa do sistema.
 
-## Tecnologias Consideradas
+## Tecnologias
 - Node.js
 - Express.js
 - PostgreSQL
