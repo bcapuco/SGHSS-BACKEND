@@ -1,0 +1,6 @@
+INICIO
+  Localizar prontuário
+  Registrar prescrição médica
+  Solicitar exames
+  Vincular ao prontuário
+FIM
