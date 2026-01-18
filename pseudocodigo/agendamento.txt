@@ -1,0 +1,9 @@
+INICIO
+  Receber dados do agendamento
+  Verificar disponibilidade do profissional
+  Se disponível:
+    Salvar agendamento
+    Retornar confirmação
+  Senão:
+    Retornar conflito de horário
+FIM
